@@ -631,3 +631,5 @@ bbtime:
  appId: # 你的appId
  appKey: # 你的appKey
  serverURLs: # https://你的api
+
+theme: jekyll-theme-cayman
